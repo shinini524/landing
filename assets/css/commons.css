@@ -1,0 +1,149 @@
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Pretendard';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/pretendard@1.0/Pretendard-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-display: swap;
+}
+
+
+.prata-regular {
+    font-family: "Prata", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.f-h1 {
+    font-family: dsafsd;
+    font-size: 64px;
+}
+
+.fclr-main1 {
+    color: #000;
+}
+
+/* .gap{
+    display: flex;
+    gap: 50px;
+} */
+
+/* 컬러 가이드*/
+
+.color-main {
+    color: #00DBCF;
+}
+
+.color-sub {
+    color: #02ABA4;
+}
+
+.color-point-y {
+    color: #F6FFB4;
+}
+
+.color-point-b {
+    color: #6DFDF0;
+}
+
+.color-b {
+    color: #333;
+}
+
+.color-g {
+    color: #9F9E9B;
+}
+
+.color-w {
+    color: #fff;
+}
+
+/* 폰트 가이드 */
+h1 {
+    font-family: 'Pretendard';
+    font-size: 70px;
+}
+
+h2 {
+    font-family: 'Pretendard';
+    font-size: 40px;
+}
+
+h3 {
+    font-family: 'Pretendard';
+    font-size: 32px;
+    font-weight: 400;
+}
+
+h4 {
+    font-family: 'Pretendard';
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.b1 {
+    font-family: 'Pretendard';
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* 폰트 두께 */
+
+/* 갭 두께 */
+.gap15 {
+    gap: 15px;
+}
